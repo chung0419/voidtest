@@ -10,6 +10,8 @@ int main() {
 
   fprintf(stdout, "Void Test stdout! \n");
 
+  fprintf(stdout, "Happy new year! \n");
+
   return 0;
 
 }
