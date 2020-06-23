@@ -5,3 +5,8 @@ compiler:
   - clang
 
 script: make && make test
+
+notifications:
+  on_success: always
+  on_failure: always
+
