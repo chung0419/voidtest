@@ -14,6 +14,8 @@ int main() {
 
   fprintf(stdout, "Happy new month! \n");
 
+  fprintf(stdout, "Happy new week! \n");
+
   return 0;
 
 }
