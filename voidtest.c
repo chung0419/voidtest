@@ -8,7 +8,8 @@ int main() {
 
   printf("Void Test! \n");
 
-  fprintf(stdout, "Void Test stdout! \n");
+  int i001 = fprintf(stdout, "Void Test stdout! \n");
+  fprintf(stdout, "Number of characters printed is %d \n", i001);
 
   fprintf(stdout, "Happy new year! \n");
 
