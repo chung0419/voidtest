@@ -19,6 +19,8 @@ int main() {
 
   fprintf(stdout, "Happy new day! \n");
 
+  fprintf(stdout, "Happy new hour! \n");
+
   return 0;
 
 }
