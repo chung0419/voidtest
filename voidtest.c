@@ -23,6 +23,8 @@ int main() {
 
   fprintf(stdout, "migrate to travis-ci com \n");
 
+  fprintf(stdout, "Happy new year 2021! \n");
+
   return 0;
 
 }
