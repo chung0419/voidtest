@@ -21,6 +21,8 @@ int main() {
 
   fprintf(stdout, "Happy new hour! \n");
 
+  fprintf(stdout, "migrate to travis-ci com \n");
+
   return 0;
 
 }
