@@ -38,6 +38,9 @@ int main() {
   //fputc('\n', stdout);
   fputc(10, stdout);
 
+  fprintf(stdout, "Happy new month February 2021! \n");
+  fputc('\n', stdout);
+
   return 0;
 
 }
